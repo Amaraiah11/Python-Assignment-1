@@ -1,7 +1,7 @@
 # 🐍 Python Core Laboratory 1 — Operators, String Processing & List Operations
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115E59,50:0D9488,100:5EEAD4&customColorList=115E59,0D9488,5EEAD4&height=220&section=header&text=Python%20Core%20Laboratory%201&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Notebooks%20for%20Operators%2C%20String%20Processing%20%26%20List%20Ops&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Core Laboratory 1 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115E59,50:0D9488,100:5EEAD4&customColorList=115E59,0D9488,5EEAD4&height=220&section=header&text=Python%20Core%20Laboratory%201&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Notebooks%20for%20Operators%2C%20String%20Processing%20and%20List%20Ops&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Core Laboratory 1 Banner" />
 </p>
 
 <p align="center">
