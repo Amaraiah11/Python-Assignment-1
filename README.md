@@ -1,41 +1,66 @@
+# 🐍 Python Core Laboratory 1 — Operators, String Processing & List Operations
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=115E59,0D9488,5EEAD4&height=220&section=header&text=Python%20Core%20Laboratory%201&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Notebooks%20for%20Operators%2C%20String%20Processing%20%26%20List%20Operations&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Python Core Laboratory 1 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=115E59,0D9488,5EEAD4&height=220&section=header&text=Python%20Core%20Laboratory%201&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Notebooks%20for%20Operators%2C%20String%20Processing%20%26%20List%20Ops&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Python Core Laboratory 1 Banner" />
+</p>
+
+<p align="center">
+  <b>Documented Academic Laboratory Submission: Computational Jupyter Notebooks and Graded Technical Reports on Arithmetic Operations and Sequences.</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-BCA%20Python%20Lab%201-115E59?style=for-the-badge" alt="Course" />
   <img src="https://img.shields.io/badge/Format-Jupyter%20Notebook%20%7C%20PDF-0D9488?style=for-the-badge" alt="Format" />
   <img src="https://img.shields.io/badge/Topics-Operators%20%7C%20Strings%20%7C%20Lists-5EEAD4?style=for-the-badge&logoColor=black" alt="Topics" />
-  <img src="https://img.shields.io/badge/Status-Completed%20Lab-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/github/stars/Amaraiah11/Python-Assignment-1?style=for-the-badge&color=gold" alt="Stars" />
 </p>
 
-<a id="overview"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,vscode,git,github" alt="Tools" />
+</p>
+
+---
+
+<a id="table-of-contents"></a>
+## 📌 Table of Contents
+
+- [📖 Executive Summary & Overview](#executive-summary--overview)
+- [🎯 Key Features & Capabilities](#features)
+- [🏗️ System Architecture & Pipeline](#system-architecture--pipeline)
+- [🛠️ Tech Stack Breakdown](#tech-stack-breakdown)
+- [⚙️ Reproducible Quickstart & Setup](#setup)
+- [📁 Project Directory Layout](#project-layout)
+- [🧪 Testing & Validation](#testing--validation)
+- [🔮 Future Improvements & Roadmap](#future-improvements--roadmap)
+- [🤝 Contributing Guidelines](#contributing-guidelines)
+- [👨‍💻 Author & Contributions](#author--contributions)
+
+---
+
+<a id="executive-summary--overview"></a>
 ## 📖 Executive Summary & Overview
 
 Foundational computer science pedagogy requires hands-on experimentation with operator precedence, string immutability, and dynamic array reallocation. Without practical verification of arithmetic operators, bitwise logic, and slice indexing, programming errors frequently compound in higher-level numerical modules.
 
-The **Python Core Laboratory 1** (`Python-Assignment-1`) provides a documented laboratory submission for BCA Python Programming coursework. The repository contains the computational notebook `ASS-1.ipynb` and its formal academic report `Assignment 1(LAB).pdf`, demonstrating hands-on mastery of arithmetic operations, string transformations, and list manipulations.
+The **Python Core Laboratory 1** (`Python-Assignment-1`) provides a documented laboratory submission for BCA Python Programming coursework by **Amaraiah C**. The repository contains the computational notebook `ASS-1.ipynb` and its formal academic report `Assignment 1(LAB).pdf`, demonstrating hands-on mastery of arithmetic operations, string transformations, and list manipulations.
 
-<a id="toc"></a>
-## 📑 Table of Contents
+---
 
-- [📖 Executive Summary & Overview](#overview)
-- [🎯 Key Features & Capabilities](#features)
-- [🏗️ System Architecture & Pipeline](#architecture)
-- [🛠️ Tech Stack Breakdown](#tech-stack)
-- [⚙️ Reproducible Quickstart & Setup](#setup)
-- [📁 Project Directory Layout](#project-layout)
-- [👨‍💻 Author & Contributions](#author)
-
-<a id="features"></a>
+<a id="key-features--capabilities"></a>
 ## 🎯 Key Features & Capabilities
 
-- **Arithmetic & Logical Operations:** Addition, subtraction, multiplication, floor division (`//`), modulo (`%`), and exponentiation (`**`).
-- **String Manipulation:** Indexing, negative slicing, concatenation, string interpolation, and standard string methods (`split`, `strip`, `join`).
-- **Dynamic List Operations:** Element appending, insertion, popping, slicing, and nested list traversal.
-- **Academic Verification:** Complete PDF laboratory documentation with input cases, console outputs, and theoretical commentary.
+### 🧮 1. Arithmetic & Precedence Logic
+- Complete evaluation of addition, subtraction, multiplication, floor division (`//`), modulo (`%`), and exponentiation (`**`).
 
-<a id="architecture"></a>
+### 🔤 2. String Slicing & Methods
+- Slice notation with positive/negative step values, token splitting, stripping, and formatting.
+
+### 📋 3. Dynamic List Processing
+- Appending, popping, nested slicing, and in-place list sorting.
+
+---
+
+<a id="system-architecture--pipeline"></a>
 ## 🏗️ System Architecture & Pipeline
 
 ```mermaid
@@ -49,7 +74,9 @@ flowchart LR
     E --> F
 ```
 
-<a id="tech-stack"></a>
+---
+
+<a id="tech-stack-breakdown"></a>
 ## 🛠️ Tech Stack Breakdown
 
 | Technology | Category | Detail |
@@ -58,7 +85,9 @@ flowchart LR
 | **Notebook Runtime** | Jupyter / Google Colab | Interactive cell-by-cell execution |
 | **Documentation** | Academic Lab Report (`.pdf`) | Formal problem statements, code, and output logs |
 
-<a id="setup"></a>
+---
+
+<a id="reproducible-quickstart--setup"></a>
 ## ⚙️ Reproducible Quickstart & Setup
 
 ### Prerequisites
@@ -73,7 +102,9 @@ cd Python-Assignment-1
 jupyter notebook ASS-1.ipynb
 ```
 
-<a id="project-layout"></a>
+---
+
+<a id="project-directory-layout"></a>
 ## 📁 Project Directory Layout
 
 ```text
@@ -83,22 +114,47 @@ Python-Assignment-1/
 └── README.md                  # Comprehensive laboratory documentation
 ```
 
-<a id="author"></a>
+---
+
+<a id="testing--validation"></a>
+## 🧪 Testing & Validation
+
+- All notebook cells execute sequentially from top to bottom with zero exceptions.
+
+---
+
+<a id="future-improvements--roadmap"></a>
+## 🔮 Future Improvements & Roadmap
+
+- [ ] Add performance benchmarks comparing Python lists with NumPy array slices.
+
+---
+
+<a id="author--contributions"></a>
 ## 👨‍💻 Author & Contributions
 
-This project is developed and maintained with high technical rigour by **Amaraiah C**, Software Engineer and Data Analytics Practitioner studying Bachelor of Computer Applications (BCA) at Alliance University.
+This project is developed and maintained with rigorous engineering standards by **Amaraiah C**, Software Developer and Applied Data Analytics Practitioner studying Bachelor of Computer Applications (BCA) at Alliance University, Bangalore.
 
-- 🌐 **GitHub:** [@Amaraiah11](https://github.com/Amaraiah11)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/amaraiah-c/)
-- 📧 **Institutional Contact:** `camaraiahBCA24@ced.alliance.edu.in`
+- 🌐 **GitHub Profile:** [@Amaraiah11](https://github.com/Amaraiah11)
+- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/amaraiah-c/)
+- 📧 **Institutional Email:** `camaraiahBCA24@ced.alliance.edu.in`
 
-### 🤝 Contribution Guidelines
+### 🤝 Contributing Guidelines
 Contributions, bug reports, and architectural discussions are welcome!
 1. **Fork** the repository: `https://github.com/Amaraiah11/Python-Assignment-1`
-2. **Branch**: `git checkout -b feature/your-feature-name`
-3. **Commit**: `git commit -m "feat: enhance feature logic"`
-4. **Push**: `git push origin feature/your-feature-name`
-5. **Open Pull Request** against the `main` branch.
+2. **Create a Feature Branch:**
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Commit Your Enhancements:**
+   ```bash
+   git commit -m "feat: enhance feature logic"
+   ```
+4. **Push to Your Branch:**
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. **Open a Pull Request** against the `main` branch.
 
 ---
 
